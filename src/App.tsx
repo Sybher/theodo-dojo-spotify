@@ -9,7 +9,7 @@ const App = () => {
         <h1 className="App-title">Bienvenue sur le blind test de Sybher</h1>
       </header>
       <div className="App-images">
-        <p>Test</p>
+        <p>Test hgcf</p>
       </div>
       <div className="App-buttons"></div>
     </div>
